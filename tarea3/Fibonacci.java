@@ -14,5 +14,4 @@ class Fibo
             n++;
         }        
     }
-
 }
